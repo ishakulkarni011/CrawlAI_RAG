@@ -1,0 +1,11 @@
+
+langchain==0.1.17
+langchain-community
+transformers
+torch
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+playwright
